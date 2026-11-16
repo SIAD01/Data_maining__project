@@ -108,11 +108,6 @@ The notebook extracts `data/raw/archive.zip` and creates `data/processed/f1_clea
 
 Python · pandas · NumPy · matplotlib · seaborn · statsmodels · scikit-learn · HTML / CSS / JavaScript
 
-## 👤 Author
-
-**<Your name>** · <course / university>, <year>
-📫 <email or LinkedIn>
-
 ## 📄 License
 
 Code under the [MIT License](LICENSE). Data © the authors of the original Formula 1 dataset (see [`data/README.md`](data/README.md)).
