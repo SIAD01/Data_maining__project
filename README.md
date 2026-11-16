@@ -4,9 +4,13 @@ f1-win-lose-cause
 
 f1-win-lose-cause/
 ├── README.md                 # problem, method, results, how to run
+
 ├── requirements.txt
+
 ├── LICENSE                   # MIT
+
 ├── .gitignore
+
 ├── data/
 │   ├── README.md             # source + description of the data
 │   ├── raw/archive.zip       # your original 14 CSV files
